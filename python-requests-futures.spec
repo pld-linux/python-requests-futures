@@ -8,7 +8,7 @@ Summary:	Asynchronous Python HTTP for Humans
 Summary(pl.UTF-8):	Asynchroniczne HTTP w Pythonie dla ludzi
 Name:		python-requests-futures
 Version:	1.0.1
-Release:	2
+Release:	3
 License:	Apache v2.0
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/requests-futures/
